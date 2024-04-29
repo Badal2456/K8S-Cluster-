@@ -56,6 +56,9 @@ You can interact with and manage the Pod using kubectl commands, such as kubectl
 2.They encapsulate one or more containers and provide a consistent environment for running and managing applications.
 By defining Pods with YAML configuration files, you can easily deploy and manage applications in Kubernetes clusters.
 
+![POD](https://github.com/Badal2456/K8S-Cluster-/assets/112490933/639002ab-9c96-4c27-b93f-164e888e9eb4)
+
+
 
 
 
